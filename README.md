@@ -30,12 +30,6 @@ Tri-Lang is an interactive language learning app created by a passionate game de
 
 ---
 
-## Screenshots
-
-*(Add screenshots or GIFs here to showcase Tri-Lang)*
-
----
-
 ## About the Developer
 
 I’m a game developer and content creator from Bangladesh. I love building games and apps that help people learn and have fun.
