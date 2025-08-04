@@ -44,6 +44,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-- YouTube: [YourChannel](https://youtube.com/@YourChannel)  
-- Email: your.email@example.com  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- YouTube: https://www.youtube.com/@gamerbd-official
+- Email: sanafgamedev@gmail.com
+- GitHub: https://github.com/GamerBD
