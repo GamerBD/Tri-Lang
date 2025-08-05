@@ -1,49 +1,17 @@
-# Tri-Lang
+Tri-Lang 🌍
 
-Tri-Lang is an interactive language learning app created by a passionate game developer from Bangladesh. It combines gamification and intuitive design to make learning new languages fun, engaging, and effective.
+Tri-Lang is a fun, retro-style language learning game made with HTML, CSS, and JavaScript. It's a passion project from Gamer BD, a game developer who loves old-school consoles like the Game Boy and retro games.
 
----
+The game features my mascot, TriBlaze, a red triangle with cool retro sunglasses, who guides you through the lessons. You start by choosing a language like Spanish, French, or even Bangla. The game presents a "skill tree" of lessons, and for each lesson, you're given a word to translate and a few multiple-choice options.
 
-## Features
+Features:
 
-- Supports multiple languages (expandable)  
-- Gamified lessons and quizzes  
-- Clean, user-friendly interface  
-- Responsive design for desktop and mobile  
-- Built with HTML, CSS, and JavaScript  
+Retro Aesthetics: The game has a simple, clean design with a red and white color scheme, giving it a classic, retro feel.
 
----
+Multiple Languages: Learn basic greetings like "Hello," "Thank you," and "Goodbye" in several languages.
 
-## How to Run
+XP and Streak System: Track your progress with an experience point (XP) and streak counter.
 
-1. Download or clone the repository.  
-2. Extract the files if you downloaded the ZIP.  
-3. Open `index.html` in your web browser.  
-4. Start learning!
+Hearts System: You have three hearts per lesson. If you get an answer wrong, you lose a heart!
 
----
-
-## Controls
-
-- Use on-screen buttons to navigate through lessons.  
-- Complete quizzes to test your progress.
-
----
-
-## About the Developer
-
-I’m a game developer and content creator from Bangladesh. I love building games and apps that help people learn and have fun.
-
----
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-- YouTube: https://www.youtube.com/@gamerbd-official
-- Email: sanafgamedev@gmail.com
-- GitHub: https://github.com/GamerBD
+Interactive Mascot: Your guide, TriBlaze, is right there on the page to cheer you on.
